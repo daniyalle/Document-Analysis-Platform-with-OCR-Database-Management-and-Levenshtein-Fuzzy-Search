@@ -5,7 +5,7 @@ Python | PostgreSQL | SQL | Computer Vision | Search Engine | Database and Sessi
 
 
 Executive Summary
-The Scanatore project is a comprehensive document processing system that combines optical character recognition (OCR), database management, and advanced search capabilities to create a robust solution for document analysis and retrieval. The system is designed to handle both high-quality and low-quality documents, with specific mechanisms to address common issues found in scanned materials.
+This project is a comprehensive document processing system that combines optical character recognition (OCR), database management, and advanced search capabilities to create a robust solution for document analysis and retrieval. The system is designed to handle both high-quality and low-quality documents, with specific mechanisms to address common issues found in scanned materials.
 
 System Architecture
 1. Optical Character Recognition (OCR) Processing
